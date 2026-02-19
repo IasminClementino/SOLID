@@ -1,7 +1,7 @@
 # SOLID
 
 Princípios SOLID Aplicados a Java ☕
-Este repositório contém uma atividade prática desenvolvida para demonstrar a aplicação dos princípios SOLID no desenvolvimento de software com Java. O projeto ilustra a transição de um código com alto acoplamento para uma arquitetura limpa, coesa e fácil de manter.
+Este repositório contém uma atividade prática da matéria de Programação IV, desenvolvida para demonstrar a aplicação dos princípios SOLID no desenvolvimento de software com Java. Este projeto ilustra a transição de um código com alto acoplamento para uma arquitetura limpa, coesa e fácil de manter.
 
 🎯 Objetivo da Atividade
 Identificar violações de SOLID em um código legado (monolítico).
